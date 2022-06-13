@@ -1,0 +1,14 @@
+9abfd0c67998c9ede709dc84925c7769 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+49927be15f46e2b9b4af94a86ed8b854 *R/data.R
+2f03d8ce35f0bc98b20bdf2723e29dde *README.md
+985c3a03f4387257a0761e9d57d04aa6 *build/partial.rdb
+1aa49424e7dfe5f2cfe6df1e55fe9327 *data/pheno.RData
+b9a78504c5de20b411a34c7a6c411a4d *data/soil.RData
+a29f96e3fd8a837c92db89856ef24d5c *data/weather.RData
+74e956a6c77c76d9cfb37b3747a1061a *inst/CITATION
+1db20d274c1a9bbbe1967151abab01b2 *inst/WORDLIST
+58b304f1e410ab1a68a315cedca00bdf *man/pheno.Rd
+ddc870d0bcd286f2c5a1eed6df3419ab *man/soil.Rd
+337ef8e1f5648dc39271bdb5077f7fc7 *man/weather.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
